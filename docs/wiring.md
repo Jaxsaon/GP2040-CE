@@ -4,7 +4,7 @@ These are the default pin mappings for each GP2040-CE supported microcontroller 
 
 ## Raspberry Pi Pico
 
-?> The Raspberry Pi Pico pinout can also be used on clone boards with the same form factor and pinout, such as the Pimironi Pico LiPo and the Waveshare RP2040-Plus.
+?> The Raspberry Pi Pico pinout can also be used on clone boards with the same form factor and pinout, such as the Pimoroni Pico LiPo and the Waveshare RP2040-Plus.
 
 ![Raspberry Pi Pico Pinout](assets/wiring/RaspberryPiPico_Pinout.png)
 
